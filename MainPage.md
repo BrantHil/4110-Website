@@ -1,27 +1,12 @@
-# Heading
-This is ~~standard~~ text 
 
-This is a link to [google.com](https://www.google.com/)
-# Heading 2 
-*This is more standard text* 
-I changed this for command line testing
-|Table of letters|
-|Vowels|Consonants| 
-|---|---|
-|a|b|
-|e|c|
-|i|d|
-|o|f|
-|u|g|
-|y|h|
+# This site is here to provide a look into my process of redesigning an old project I had programmed. 
 
-
-# An example of a project I designed and programmed alongside a partner for my final project from my previous college
-
-## The Character Selection Screen
+## The Character Selection Screen Before
 Seen below is the character selection screen where users are able to load or create new characters.
-![](Pictures/DNDCharacterSheetCharacterSelectScreen.png)
+<!-- ![](Pictures/DNDCharacterSheetCharacterSelectScreen.png) -->
+<img src="Pictures/DNDCharacterSheetCharacterSelectScreen.png" alt="example of the character selection screen" width="350" >
+
+## The Character Selection Screen After
 ## The Character Information Screen
 This is the bulk of the program, where users are able to input and change the information related to a DND character. The sheet also includes the standard stat modifiers calaculated.  
 ![](Pictures/DNDCharacterSheetCharacterInformationScreen.png)
-### Upon adding this example to my demo I had plenty of time to look over what I had done previously and how much I could improve upon it, some important details are missing from the sheet as well as the poorly designed selection screen.
