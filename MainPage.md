@@ -23,4 +23,4 @@ So this website will show the progress as this happens
 
 
 ### footer
-copyright& Brant Hilton, branthil@iastate.edu
+copyright& Brant Hilton, 
